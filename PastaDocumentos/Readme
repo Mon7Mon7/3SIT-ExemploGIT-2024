@@ -2,5 +2,9 @@ Guarde nesta pasta apenas documentos de esclarecimento do escopo e planos do pro
 Exemplo:
 -Pitch;
 -Cronograma;
+<<<<<<< HEAD
+-Planilha de orçamento.
+=======
 -Planilha de orçamento;
 -KICKOFF
+>>>>>>> release/System01
